@@ -9,6 +9,7 @@
 
 ### dotnet Tools
 - [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) A dotnet tool to run arbitrary commands from a project's "scripts" object
+- [dotnet-serve](https://github.com/natemcmaster/dotnet-serve) Simple command-line HTTPS server for the .NET Core CLI 
 
 ### Id generation
 - [IdGen](https://github.com/RobThree/IdGen) Twitter Snowflake-alike ID generator for .NET
