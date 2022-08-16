@@ -1,5 +1,9 @@
 ## Table of contents
+- [dotnet Tools](#dotnet-tools)
 - [Id generation](#id-generation)
+
+### dotnet Tools
+- [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) A dotnet tool to run arbitrary commands from a project's "scripts" object
 
 ### Id generation
 - [IdGen](https://github.com/RobThree/IdGen) Twitter Snowflake-alike ID generator for .NET
