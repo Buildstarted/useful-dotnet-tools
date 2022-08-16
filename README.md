@@ -8,6 +8,7 @@
 - [Dapper Query Builder](https://github.com/Drizin/DapperQueryBuilder) Dapper Query Builder using String Interpolation and Fluent API 
 
 ### dotnet Tools
+- [dotnet-rimraf](https://github.com/xt0rted/dotnet-rimraf) Deep deletion command for .NET (like rm -rf) 
 - [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) A dotnet tool to run arbitrary commands from a project's "scripts" object
 - [dotnet-serve](https://github.com/natemcmaster/dotnet-serve) Simple command-line HTTPS server for the .NET Core CLI 
 
