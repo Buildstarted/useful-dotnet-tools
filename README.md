@@ -1,6 +1,11 @@
 ## Table of contents
+- [Database](#database)
 - [dotnet Tools](#dotnet-tools)
 - [Id generation](#id-generation)
+
+### Database
+- [Dapper](https://github.com/DapperLib/Dapper) Dapper - a simple object mapper for .Net 
+- [Dapper Query Builder](https://github.com/Drizin/DapperQueryBuilder) Dapper Query Builder using String Interpolation and Fluent API 
 
 ### dotnet Tools
 - [dotnet-run-script](https://github.com/xt0rted/dotnet-run-script) A dotnet tool to run arbitrary commands from a project's "scripts" object
